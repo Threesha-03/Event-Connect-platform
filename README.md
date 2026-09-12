@@ -94,6 +94,33 @@ Event-Connect-Platform/
 └── README.md
 ```
 
+## 📸 Screenshots
+
+### 🎫 Events Page
+
+<p align="center">
+  <img src="./eventpage.png" alt="Events Page" width="800">
+</p>
+
+### 📋 Event Information
+
+<p align="center">
+  <img src="./EventInfo.png" alt="Event Information" width="800">
+</p>
+
+### ➕ Create Event
+
+<p align="center">
+  <img src="./createEvent.png" alt="Create Event" width="800">
+</p>
+
+### 🔳 QR Code
+
+<p align="center">
+  <img src="./qrcode.png" alt="QR Code" width="500">
+</p>
+
+
 ## ⚙️ Installation
 
 ### 1. Clone the Repository
